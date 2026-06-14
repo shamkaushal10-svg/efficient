@@ -1,0 +1,4 @@
+interface:
+  display_name: "Efficient"
+  short_description: "Preserve results while using fewer tokens"
+  default_prompt: "Use $efficient to complete this task with minimal token use while preserving correctness and required output."
